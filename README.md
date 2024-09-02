@@ -1,6 +1,6 @@
 # Emotion_detection_with_CNN
 
-<img src="https://i.ibb.co/CBbfd6q/Screenshot-2024-09-01-at-7-54-04-PM.png" height="50%" width="50%" >
+<img src="https://ibb.co/rkxVP3g" height="50%" width="50%" >
 
 ### Packages need to be installed
 - pip install numpy
