@@ -26,3 +26,6 @@ copy these two files create model folder in your project directory and paste it.
 
 ### Run your emotion detection test file
 python TestEmotionDetector.py
+
+### [Final Report](https://drive.google.com/file/d/1rLRY2d8dtNyB86rPf3D2sRHRhzrff6Dl/view?usp=sharing)
+
